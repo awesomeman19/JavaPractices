@@ -13,7 +13,7 @@ public class AreaOfShapes {
 
 	public static void main(String[] args) {
 		AreaOfShapes a = new AreaOfShapes();
-		a.areaOfSquare(4);
+		a.areaOfSquare(4.5);
 		a.areaOfRectangle(3, 4);
 	}
 
